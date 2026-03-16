@@ -5,8 +5,8 @@ This repository contains my custom work for Project 2: Text Preprocessing. The n
 
 I first ran the provided example notebook and then copied it to create my own version where I experimented with modifications and analysis.
 
-Starter file: text_preprocessing_case.ipynb
-Custom file: text_preprocessing_beaderstadt.ipynb
+- Starter file: text_preprocessing_case.ipynb
+- Custom file: text_preprocessing_beaderstadt.ipynb
 
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
