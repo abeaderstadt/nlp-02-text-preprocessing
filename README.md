@@ -153,19 +153,19 @@ git push -u origin main
 To make this project my own, I made several small modifications to the example notebook.
 
 1. Updated input text
-I replaced the example text file with text_data_beaderstadt.txt, which is more relevant to my toxicology lab work.
+- I replaced the example text file with text_data_beaderstadt.txt, which is more relevant to my toxicology lab work.
 
 2. Added raw data sanity checks
-I added checks to make sure text_list isn’t empty, looked for weird formatting, and flagged any duplicate lines.
+- I added checks to make sure text_list isn’t empty, looked for weird formatting, and flagged any duplicate lines.
 
 3. Added token length feature
-I created a new feature that calculates the length of each cleaned token and computes the average token length.
+- I created a new feature that calculates the length of each cleaned token and computes the average token length.
 
 4. Added a histogram visualization
-I made a histogram of token lengths to visualize the distribution, giving me a better sense of the structure of the cleaned text and adding a new output to explore.
+- I made a histogram of token lengths to visualize the distribution, giving me a better sense of the structure of the cleaned text and adding a new output to explore.
 
 5. Observations
-After running the notebook with my changes, I noticed that the average token length is about 7 characters, with a few longer tokens. The histogram makes it easy to see patterns in my lab-related text and confirms that really short tokens (2 characters or less) were successfully removed. The top three most frequent cleaned tokens are test, result, and sample, which makes sense for my lab data. Everything looked clean, no duplicates and no weird formatting popped up.
+- After running the notebook with my changes, I noticed that the average token length is about 7 characters, with a few longer tokens. The histogram makes it easy to see patterns in my lab-related text and confirms that really short tokens (2 characters or less) were successfully removed. The top three most frequent cleaned tokens are test, result, and sample, which makes sense for my lab data. Everything looked clean, no duplicates and no weird formatting popped up.
 
 ## Example Artifact (Output)
 
