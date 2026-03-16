@@ -152,7 +152,7 @@ git push -u origin main
 
 To make this project my own, I made several small modifications to the example notebook.
 
-First, I TODO
+First, I updated the text_data_beaderstadt.txt file to be more relevant to my toxicology lab work.
 
 I also TODO
 

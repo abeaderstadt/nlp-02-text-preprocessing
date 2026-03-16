@@ -21,7 +21,7 @@ Notes
 
 Run from root project folder with:
 
-  uv run python -m nlp.text_preprocessing_case
+  uv run python -m nlp.text_preprocessing_beaderstadt
 """
 
 # ============================================================
@@ -65,7 +65,7 @@ log_path(LOG, "SCRIPTS_PATH", SCRIPTS_PATH)
 
 # Choose a text file to analyze.
 # Each line is treated as one text record.
-input_path: Path = DATA_PATH / "text_data_case.txt"
+input_path: Path = DATA_PATH / "text_data_beaderstadt.txt"
 
 # Read all lines from the file.
 text_list: list[str] = input_path.read_text(encoding="utf-8").splitlines()
