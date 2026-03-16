@@ -152,11 +152,11 @@ git push -u origin main
 
 To make this project my own, I made several small modifications to the example notebook.
 
-First, I updated the text_data_beaderstadt.txt file to be more relevant to my toxicology lab work.
+First, I replaced the example text file with text_data_beaderstadt.txt, which is more relevant to my toxicology lab work.
 
-I also TODO
+I also created a new feature that calculates the length of each cleaned token and computes the average token length.
 
-Next, I TODO
+Next, I made a histogram of token lengths to visualize the distribution, giving me a better feel for the structure of the cleaned text and adding a new output to explore.
 
 TODO
 
