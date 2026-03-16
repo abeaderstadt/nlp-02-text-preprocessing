@@ -1,4 +1,12 @@
 # nlp-02-text-preprocessing
+Alissa Beaderstadt - Graduate Student - Data Analytics
+
+This repository contains my custom work for the course starter project. The notebook goes through text preprocessing step by step. It loads some raw text, splits it into words, makes everything lowercase, removes punctuation and common stop words, and cleans it up. Then it uses Polars to count how often words show up and makes charts so you can see the most common words and how preprocessing changes the text.
+
+I first ran the provided example notebook and then copied it to create my own version where I experimented with modifications and analysis.
+
+Starter file: text_preprocessing_case.ipynb
+Custom file: text_preprocessing_beaderstadt.ipynb
 
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
@@ -139,6 +147,20 @@ git push -u origin main
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
 - Use `CTRL+f` to find (and replace) text within a file.
+
+## My Project Modifications
+
+To make this project my own, I made several small modifications to the example notebook.
+
+First, I TODO
+
+I also TODO
+
+Next, I TODO
+
+TODO
+
+After running the notebook with these changes, TODO
 
 ## Example Artifact (Output)
 
