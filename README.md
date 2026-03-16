@@ -1,7 +1,7 @@
 # nlp-02-text-preprocessing
 Alissa Beaderstadt - Graduate Student - Data Analytics
 
-This repository contains my custom work for the course starter project. The notebook goes through text preprocessing step by step. It loads some raw text, splits it into words, makes everything lowercase, removes punctuation and common stop words, and cleans it up. Then it uses Polars to count how often words show up and makes charts so you can see the most common words and how preprocessing changes the text.
+This repository contains my custom work for Project 2: Text Preprocessing. The notebook goes through text preprocessing step by step. It loads some raw text, splits it into words, makes everything lowercase, removes punctuation and common stop words, and cleans it up. Then it uses Polars to count how often words show up and makes charts so you can see the most common words and how preprocessing changes the text.
 
 I first ran the provided example notebook and then copied it to create my own version where I experimented with modifications and analysis.
 
