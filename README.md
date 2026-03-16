@@ -169,4 +169,4 @@ After running the notebook with my changes, I noticed that the average token len
 
 ## Example Artifact (Output)
 
-![Word Cloud Example](docs/images/word_cloud_example.png)
+![Lab Word Cloud Visual](docs/images/lab_wordcloud.png)
